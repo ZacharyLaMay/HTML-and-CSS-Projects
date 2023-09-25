@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+table {
+	border:3px  black;
+}
+
+td:hover {
+	background-color: blue;
+	color: pink;
+}
+
+tr, th {
+	background-color: yellow;
+	color: red;
+}
+
+tr, td {
+	background-color: black;
+	color: yellow;
+=======
+table {
+	border:3px  black;
+}
+
+td:hover {
+	background-color: blue;
+	color: pink;
+}
+
+tr, th {
+	background-color: yellow;
+	color: red;
+}
+
+tr, td {
+	background-color: black;
+	color: yellow;
+>>>>>>> 6e57520b6dc84d88d7ebc63bb2185fe65e10bfc6
+}
